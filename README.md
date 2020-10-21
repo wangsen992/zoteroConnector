@@ -1,6 +1,7 @@
 # zoteroConnector
 
-Add a short description here!
+To have a set of easy-to-work-with classes for interacting with zotero, hence
+interfacing with other platforms
 
 
 ## Description
