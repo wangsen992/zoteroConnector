@@ -2,6 +2,8 @@ import configparser
 import pathlib
 from pyzotero import zotero
 
+from .auth import parse_auth_from_ini, get_auth_from_pkg_ini
+
 # Load API params for  authentication
 config = configparser.ConfigParser()
 config.read('zotero.ini')
